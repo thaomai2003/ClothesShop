@@ -1,0 +1,41 @@
+﻿@model IEnumerable<MyFinalExam.Areas.Admin.Models.ViewModels.ProductViewModel>
+
+@{
+    ViewData["Title"] = "Admin - Product List";
+}
+
+<div class="container">
+    <h1>Product List</h1> 
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Image</th>
+                <th>Category Name</th>
+                <th>Detail Sale</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                    <td><img src="~/Hình/images/@item.ImageURL" alt="@item.Name" style="width:50px;height:50px;" /></td>
+                    <td>@item.CategoryName</td>
+                    <td>@item.DetailSale</td>
+                    <td>
+                        <a asp-route-id="@item.ID">Edit</a> |
+                        <a asp-area="Admin" asp-controller="Product" asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                        <a asp-area="Admin" asp-controller="Product" asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<MyFinalExam.ViewModels.ProductVM>
+
+<div style="display: flex; justify-content: space-between;margin-left:15px">
+    <h3>Result : @Model.Count() product</h3>
+</div>
+@foreach (var item in Model)
+{
+    <!-- Start Column 1 -->
+    <div class="col-12 col-md-4 col-lg-3 mb-5">
+        <div class="product-item" style="text-decoration: none;">
+            <a href="@Url.Action("Detail", "Shop", new { id = item.ID })" style="text-decoration: none;">
+                <div class="product-thumbnail-wrapper">
+                    <img src="~/Hình/images/@item.ImageURL" class="img-fluid product-thumbnail product-image" alt="@item.Name">
+                </div>
+            </a>
+            <div class="product-details">
+                <a href="@Url.Action("Detail", "Shop", new { id = item.ID })" style="text-decoration: none;">
+                    <h3 class="product-title">@item.Name</h3>
+                </a>
+                <strong class="product-price">$ @item.DetailSale</strong>
+                <div class="d-flex justify-content-center">
+                    <!-- Sử dụng justify-content-center để căn giữa -->
+                    <a asp-action="AddToCart" asp-controller="Cart" asp-route-id="@item.ID" style="text-decoration : none;">
+                        <button class="btn btn-outline-primary plus-btn" type="button">+</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Column 1 -->
+}

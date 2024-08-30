@@ -1,0 +1,109 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.product-image {
+    width: 120%; /* Increase the width to make the image larger */
+    height: auto; /* Maintain the aspect ratio */
+    transition: transform 0.3s ease; /* Smooth zoom effect */
+}
+
+.product-item {
+    position: relative;
+    overflow: hidden; /* Ensure the images stay within their container */
+    display: block;
+}
+
+.product-details {
+    position: absolute;
+    bottom: 25px;
+    left: 10px;
+    right: 10px;
+    background: rgba(255, 255, 255, 0.4); /* Sửa giá trị alpha thành 0.5 */
+    padding: 10px;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.position-relative button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.product-item:hover .product-image {
+    transform: scale(1.1); /* Zoom in on hover */
+}
+
+.product-item:hover .product-details {
+    opacity: 1; /* Show the text on hover */
+}
+/* Adjust width of Fruits Shop */
+.col-lg-3 {
+    flex: 0 0 25%; /* Chia ra làm 3 phần */
+    max-width: 25%; /* Giữ mỗi phần với kích thước 33.33% */
+}
+
+/* Adjust width of Products Shop */
+.col-lg-9 {
+    flex: 0 0 75%; /* Chia ra làm 3 phần */
+    max-width: 75%; /* Giữ mỗi phần với kích thước 66.66% */
+}
+
+/* Hover effect */
+.plus-btn {
+    opacity: 0.6; /* Thiết lập độ trong suốt */
+    transition: transform 0.3s ease; /* Hiệu ứng chuyển đổi */
+    border-radius: 30%; /* Tạo hình dạng tròn */
+    text-align: center; /* Căn giữa nội dung */
+    border: none; /* Loại bỏ viền */
+}
+
+    .plus-btn:hover {
+        opacity: 1; /* Tăng độ trong suốt khi hover */
+    }
+
+.container {
+    max-width: 1400px;
+}
+
+ul {
+    list-style-type: none; /* Loại bỏ ký hiệu dạng dấu chấm hoặc số */
+    padding: 0; /* Xóa padding mặc định của danh sách */
+}
+
+    ul li {
+        text-decoration: none; /* Tắt gạch ngang */
+    }
+
+.ulFix li a {
+    text-decoration: none; /* Tắt gạch ngang cho liên kết bên trong mục danh sách */
+}
+
+.ulFix li a {
+    text-decoration: none; /* Tắt gạch ngang cho liên kết bên trong mục danh sách */
+}
+
+.container-size {
+    max-width: 1600px;
+}

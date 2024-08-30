@@ -1,0 +1,53 @@
+﻿@model MyFinalExam.ViewModels.LoginVM
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="hero">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-lg-5">
+                <div class="intro-excerpt">
+                    <h1>Login</h1>
+                </div>
+            </div>
+            <div class="col-lg-7">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="row mb-5">
+            <div class="border p-4 rounded" role="alert">
+                New customer? <a asp-action="Register" asp-controller="Customer">Click here</a> to register
+            </div>
+        </div>
+        <h2 class="h3 mb-4 text-black">Login</h2>
+        <form asp-action="Login" asp-route-ReturnURL="@ViewBag.ReturnURL">
+            <div class="text-danger" asp-validation-summary="All"></div>
+            <div class="row">
+                <div class="p-3 p-lg-5 border bg-white">
+                    <div class="form-group row">
+                        <div class="col-md-6">
+                            <label asp-for="@Model.Id" class="text-black my-3"></label><span class="text-danger">*</span>
+                            <input asp-for="@Model.Id" type="text" class="form-control" id="c_fname">
+                            <span asp-validation-for="@Model.Id" class="text-bg-danger"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="@Model.passwordLogin" class="text-black my-3"></label><span class="text-danger">*</span>
+                            <input asp-for="@Model.passwordLogin" class="form-control" id="c_lname">
+                            <span asp-validation-for="@Model.passwordLogin" class="text-bg-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group my-5">
+                        <button class="btn btn-black btn-lg py-3 btn-block" type="submit" style="font-size: 1rem; width: 170px; height: 80px;">Login</button>
+                        <a asp-controller="Customer" asp-action="ForgotPassword" class="btn btn-link text-danger d-inline-block" style="font-size: 1rem; text-decoration: none; width: 170px; height: 80px;">Forgot Password?</a>
+                    </div>
+
+
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

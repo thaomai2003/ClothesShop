@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\C#\\Class\\ShopFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\wwwroot\\thankyou.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\wwwroot\\thankyou.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\views\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\shared\\_templateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\views\\shared\\_templateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99744580-DDDD-4F99-96BE-64C533830746}|MyFinalExam\\MyFinalExam.csproj|solutionrelative:myfinalexam\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "thankyou.html",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\thankyou.html",
+              "RelativeDocumentMoniker": "MyFinalExam\\wwwroot\\thankyou.html",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\thankyou.html",
+              "RelativeToolTip": "MyFinalExam\\wwwroot\\thankyou.html",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T02:24:54.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Customer\\Register.cshtml",
+              "RelativeDocumentMoniker": "MyFinalExam\\Views\\Customer\\Register.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Customer\\Register.cshtml",
+              "RelativeToolTip": "MyFinalExam\\Views\\Customer\\Register.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T16:54:26.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyFinalExam\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyFinalExam\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T15:17:52.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "MyFinalExam\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "MyFinalExam\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T15:09:58.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shop.html",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\shop.html",
+              "RelativeDocumentMoniker": "MyFinalExam\\wwwroot\\shop.html",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\shop.html",
+              "RelativeToolTip": "MyFinalExam\\wwwroot\\shop.html",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAKUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-08T11:07:48.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFinalExam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyFinalExam\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:55:29.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFinalExam\\Views\\About\\Index.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "MyFinalExam\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:30:56.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_HomeLayout.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeDocumentMoniker": "MyFinalExam\\Views\\Shared\\_HomeLayout.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeToolTip": "MyFinalExam\\Views\\Shared\\_HomeLayout.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:29:26.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\appsettings.json",
+              "RelativeDocumentMoniker": "MyFinalExam\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\appsettings.json",
+              "RelativeToolTip": "MyFinalExam\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T10:27:42.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Customer\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyFinalExam\\Views\\Customer\\Login.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Customer\\Login.cshtml",
+              "RelativeToolTip": "MyFinalExam\\Views\\Customer\\Login.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:26:15.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyFinalExam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyFinalExam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:26:01.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_TemplateProduct.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\_TemplateProduct.cshtml",
+              "RelativeDocumentMoniker": "MyFinalExam\\Views\\Shared\\_TemplateProduct.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\_TemplateProduct.cshtml",
+              "RelativeToolTip": "MyFinalExam\\Views\\Shared\\_TemplateProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:25:59.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyFinalExam\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyFinalExam\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:25:50.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "MyFinalExam\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "MyFinalExam\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:44:34.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "MyFinalExam\\ViewModels\\LoginVM.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "MyFinalExam\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:44:30.341Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

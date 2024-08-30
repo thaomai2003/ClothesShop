@@ -1,0 +1,9 @@
+﻿@model MyFinalExam.ViewModels.CartModel
+
+<a asp-controller="Cart" asp-action="Index" class="nav-link position-relative d-flex align-items-center justify-content-center cart-icon" style="width: 40px; height: 40px;">
+    <i class="fa fa-shopping-bag" style="color: white; font-size: 1.1rem;"></i>
+    <span class="cart-number position-absolute bg-secondary rounded-circle d-flex align-items-center justify-content-center text-light px-1"
+          style="top: -5px; left: 25px; height: 20px; min-width: 20px;">
+        @Model.Quantity
+    </span>
+</a>

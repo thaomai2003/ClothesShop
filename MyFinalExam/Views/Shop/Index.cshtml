@@ -1,0 +1,19 @@
+﻿@model IEnumerable<MyFinalExam.ViewModels.ProductVM>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_TemplateProduct";
+}
+<div class="row row-size">
+    @if (!Model.Any())
+    {
+        <div class="col-12">
+            <p class="no-products-message">No product.</p>
+        </div>
+    }
+    else
+    {
+        @await Html.PartialAsync("ProductItem", Model)
+    }
+</div>
+

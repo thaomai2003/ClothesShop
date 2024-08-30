@@ -1,0 +1,849 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyFinalExam.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyFinalExam.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\Customer\\21IT077.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Customer\\21IT077.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\Customer\\370102803_3173178389657982_4185614814140684236_n.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Customer\\370102803_3173178389657982_4185614814140684236_n.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\Customer\\384553795_991772178591921_1050938793805018946_n.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Customer\\384553795_991772178591921_1050938793805018946_n.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\Customer\\8-bit City_1920x1080.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Customer\\8-bit City_1920x1080.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\Customer\\anhdaidien.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Customer\\anhdaidien.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\Customer\\aura_bg.png",
+      "PackagePath": "staticwebassets\\Hinh\\Customer\\aura_bg.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\Nền Iphone.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Nền Iphone.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\airpods_pro.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\airpods_pro.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\apple_watch_series_7.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\apple_watch_series_7.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\galaxy_buds_plus.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\galaxy_buds_plus.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\galaxy_s21_plus.webp",
+      "PackagePath": "staticwebassets\\Hinh\\galaxy_s21_plus.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\galaxy_tab_a7.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\galaxy_tab_a7.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\galaxy_tab_s7_plus.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\galaxy_tab_s7_plus.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\galaxy_watch_4.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\galaxy_watch_4.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\google_pixel_5a.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\google_pixel_5a.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\ipad_pro.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\ipad_pro.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\iphone-15-pro-max-facets.webp",
+      "PackagePath": "staticwebassets\\Hinh\\iphone-15-pro-max-facets.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\iphone13promax.png",
+      "PackagePath": "staticwebassets\\Hinh\\iphone13promax.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\jbl_flip_5.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\jbl_flip_5.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\kindle_paperwhite.png",
+      "PackagePath": "staticwebassets\\Hinh\\kindle_paperwhite.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\laptop.png",
+      "PackagePath": "staticwebassets\\Hinh\\laptop.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\logitech_g_pro_x_superlight.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\logitech_g_pro_x_superlight.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\mi_11_ultra.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi_11_ultra.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\oneplus_9_pro.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\oneplus_9_pro.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\pixel_6_pro.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\pixel_6_pro.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hinh\\sony_wh_1000xm4.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\sony_wh_1000xm4.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\BannerAI.jpg!f305cw",
+      "PackagePath": "staticwebassets\\Hình\\images\\BannerAI.jpg!f305cw"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\Cat1.webp",
+      "PackagePath": "staticwebassets\\Hình\\images\\Cat1.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\Cat2.webp",
+      "PackagePath": "staticwebassets\\Hình\\images\\Cat2.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\Cat3.webp",
+      "PackagePath": "staticwebassets\\Hình\\images\\Cat3.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\Cat4.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\Cat4.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\Pate1.webp",
+      "PackagePath": "staticwebassets\\Hình\\images\\Pate1.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\Pate2.webp",
+      "PackagePath": "staticwebassets\\Hình\\images\\Pate2.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\Pate3.webp",
+      "PackagePath": "staticwebassets\\Hình\\images\\Pate3.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\Toy1.webp",
+      "PackagePath": "staticwebassets\\Hình\\images\\Toy1.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\Toy2.webp",
+      "PackagePath": "staticwebassets\\Hình\\images\\Toy2.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\Toy3.webp",
+      "PackagePath": "staticwebassets\\Hình\\images\\Toy3.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\Toy4.webp",
+      "PackagePath": "staticwebassets\\Hình\\images\\Toy4.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\background-img.png",
+      "PackagePath": "staticwebassets\\Hình\\images\\background-img.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\banner-img.png",
+      "PackagePath": "staticwebassets\\Hình\\images\\banner-img.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\banner-img2.png",
+      "PackagePath": "staticwebassets\\Hình\\images\\banner-img2.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\banner-img3.png",
+      "PackagePath": "staticwebassets\\Hình\\images\\banner-img3.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\banner-img4.png",
+      "PackagePath": "staticwebassets\\Hình\\images\\banner-img4.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\blog-large.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\blog-large.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\blog-lg1.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\blog-lg1.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\blog-lg2.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\blog-lg2.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\blog-lg3.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\blog-lg3.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\blog-lg4.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\blog-lg4.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\blog1.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\blog1.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\blog2.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\blog2.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\blog3.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\blog3.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\chocolat\\close.png",
+      "PackagePath": "staticwebassets\\Hình\\images\\chocolat\\close.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\chocolat\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\Hình\\images\\chocolat\\fullscreen-black.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\chocolat\\fullscreen.png",
+      "PackagePath": "staticwebassets\\Hình\\images\\chocolat\\fullscreen.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\chocolat\\left.png",
+      "PackagePath": "staticwebassets\\Hình\\images\\chocolat\\left.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\chocolat\\loader.gif",
+      "PackagePath": "staticwebassets\\Hình\\images\\chocolat\\loader.gif"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\chocolat\\right.png",
+      "PackagePath": "staticwebassets\\Hình\\images\\chocolat\\right.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\insta1.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\insta1.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\insta2.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\insta2.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\insta3.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\insta3.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\insta4.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\insta4.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\insta5.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\insta5.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\insta6.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\insta6.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item1.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item1.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item10.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item10.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item11.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item11.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item12.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item12.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item13.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item13.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item14.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item14.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item15.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item15.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item16.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item16.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item2.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item2.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item3.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item3.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item4.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item4.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item5.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item5.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item6.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item6.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item7.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item7.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item8.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item8.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\item9.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\item9.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Hình\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\pngtree.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\pngtree.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\reviewer-1.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\reviewer-1.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\reviewer-2.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\reviewer-2.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\reviewer-3.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\reviewer-3.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\thuoc1.webp",
+      "PackagePath": "staticwebassets\\Hình\\images\\thuoc1.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\thuoc2.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\thuoc2.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\thuoc3.webp",
+      "PackagePath": "staticwebassets\\Hình\\images\\thuoc3.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\Hình\\images\\thuoc4.jpg",
+      "PackagePath": "staticwebassets\\Hình\\images\\thuoc4.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\README.txt",
+      "PackagePath": "staticwebassets\\README.txt"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\blog.html",
+      "PackagePath": "staticwebassets\\blog.html"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\cart.html",
+      "PackagePath": "staticwebassets\\cart.html"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\checkout.html",
+      "PackagePath": "staticwebassets\\checkout.html"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\css\\404.css",
+      "PackagePath": "staticwebassets\\css\\404.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\css\\styleShop.css",
+      "PackagePath": "staticwebassets\\css\\styleShop.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\bag.svg",
+      "PackagePath": "staticwebassets\\images\\bag.svg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\bowl-2.png",
+      "PackagePath": "staticwebassets\\images\\bowl-2.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\bowl-3.png",
+      "PackagePath": "staticwebassets\\images\\bowl-3.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\cart.svg",
+      "PackagePath": "staticwebassets\\images\\cart.svg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\couch.png",
+      "PackagePath": "staticwebassets\\images\\couch.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\cross.svg",
+      "PackagePath": "staticwebassets\\images\\cross.svg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\dots-green.svg",
+      "PackagePath": "staticwebassets\\images\\dots-green.svg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\dots-light.svg",
+      "PackagePath": "staticwebassets\\images\\dots-light.svg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\dots-yellow.svg",
+      "PackagePath": "staticwebassets\\images\\dots-yellow.svg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\envelope-outline.svg",
+      "PackagePath": "staticwebassets\\images\\envelope-outline.svg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\img-grid-1.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-1.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\img-grid-2.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-2.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\img-grid-3.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-3.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\person-1.jpg",
+      "PackagePath": "staticwebassets\\images\\person-1.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\person-1.png",
+      "PackagePath": "staticwebassets\\images\\person-1.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-1.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-2.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-3.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\product-1.png",
+      "PackagePath": "staticwebassets\\images\\product-1.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\product-2.png",
+      "PackagePath": "staticwebassets\\images\\product-2.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\product-3.png",
+      "PackagePath": "staticwebassets\\images\\product-3.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\return.svg",
+      "PackagePath": "staticwebassets\\images\\return.svg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\sofa.png",
+      "PackagePath": "staticwebassets\\images\\sofa.png"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\support.svg",
+      "PackagePath": "staticwebassets\\images\\support.svg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\truck.svg",
+      "PackagePath": "staticwebassets\\images\\truck.svg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\user.svg",
+      "PackagePath": "staticwebassets\\images\\user.svg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\images\\why-choose-us-img.jpg",
+      "PackagePath": "staticwebassets\\images\\why-choose-us-img.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\js\\404.js",
+      "PackagePath": "staticwebassets\\js\\404.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\js\\Spinner.js",
+      "PackagePath": "staticwebassets\\js\\Spinner.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\prepros-6.config",
+      "PackagePath": "staticwebassets\\prepros-6.config"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\productdetail.html",
+      "PackagePath": "staticwebassets\\productdetail.html"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\services.html",
+      "PackagePath": "staticwebassets\\services.html"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\shop.html",
+      "PackagePath": "staticwebassets\\shop.html"
+    },
+    {
+      "Id": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\wwwroot\\thankyou.html",
+      "PackagePath": "staticwebassets\\thankyou.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyFinalExam.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyFinalExam.props",
+      "PackagePath": "build\\MyFinalExam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyFinalExam.props",
+      "PackagePath": "buildMultiTargeting\\MyFinalExam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyFinalExam.props",
+      "PackagePath": "buildTransitive\\MyFinalExam.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

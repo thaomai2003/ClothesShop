@@ -1,0 +1,100 @@
+﻿@model MyFinalExam.Areas.Admin.Models.ViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = "Admin Register";
+}
+<!-- Start Hero Section -->
+<div class="hero">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-lg-5">
+                <div class="intro-excerpt">
+                    <h1>Register</h1>
+                </div>
+            </div>
+            <div class="col-lg-7">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="row mb-5">
+           <div class="border p-4 rounded" role="alert">
+    New customer? Click <a href="@Url.Action("Register", "Customer", new { area = "Admin" })">here</a> to register.
+</div>
+  </div>
+        <h2 class="h3 mb-4 text-black">Register for Admin</h2>
+        <form  enctype="multipart/form-data" method="post">
+            <div class="row">
+                <div class="p-3 p-lg-5 border bg-white">
+                    <div class="form-group row">
+                        <div class="col-md-6">
+                            <label asp-for="Id" class="text-black my-3"></label><span class="text-danger">*</span>
+                            <input asp-for="Id" type="text" class="form-control" id="c_fname">
+                            <span asp-validation-for="Id" class="text-bg-danger"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Password" class="text-black my-3"></label><span class="text-danger">*</span>
+                            <input asp-for="Password" class="form-control" id="c_lname">
+                            <span asp-validation-for="Password" class="text-bg-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <label asp-for="Name" class="text-black my-3"></label><span class="text-danger">*</span>
+                            <input asp-for="Name" class="form-control" id="c_companyname" />
+                            <span asp-validation-for="Name" class="text-bg-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-md-6">
+                            <label asp-for="Age" class="text-black my-3"></label>
+                            <input asp-for="Age" class="form-control" id="c_companyname" />
+                            <span asp-validation-for="Age" class="text-bg-danger"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Email" class="text-black my-3"></label><span class="text-danger">*</span>
+                            <input asp-for="Email" class="form-control" id="c_companyname" />
+                            <span asp-validation-for="Email" class="text-bg-danger"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Phone" class="text-black my-3"></label><span class="text-danger">*</span>
+                            <input asp-for="Phone" class="form-control" id="c_companyname" />
+                            <span asp-validation-for="Phone" class="text-bg-danger"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="City" class="text-black my-3"></label>
+                            <input asp-for="City" class="form-control" id="c_companyname" />
+                            <span asp-validation-for="City" class="text-bg-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <label asp-for="Address" class="text-black my-3"></label>
+                            <input asp-for="Address" class="form-control" id="c_companyname" />
+                            <span asp-validation-for="Address" class="text-bg-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <label for="Sex" class="text-black my-3" data-bs-toggle="collapse" href="#create_an_account"
+                                   aria-expanded="false" aria-controls="create_an_account">
+                                <input asp-for="Sex" class="form-check-input"> Men?
+                            </label>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-md-12">
+                            <label for="Image" class="text-black my-3">Image</label>
+                            <input type="file" name="Image" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="form-group my-5">
+                        <button class="btn btn-black btn-lg py-3 btn-block" type="submit">Register</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<!-- End Hero Section -->

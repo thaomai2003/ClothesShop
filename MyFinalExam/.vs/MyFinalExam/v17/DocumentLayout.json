@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\shop\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:views\\shop\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\shared\\components\\menucategory\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:views\\shared\\components\\menucategory\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\views\\shared\\_templateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:views\\shared\\_templateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|d:\\workspace\\c#\\class\\shopfix\\myfinalexam\\viewcomponents\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1322E106-186C-4D49-BD7A-38551F786FBA}|MyFinalExam.csproj|solutionrelative:viewcomponents\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:27:55.294Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:53:58.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\ViewModels\\CartItem.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CartItem.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\ViewModels\\CartItem.cs",
+              "RelativeToolTip": "ViewModels\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:52:39.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\ViewModels\\CartModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CartModel.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\ViewModels\\CartModel.cs",
+              "RelativeToolTip": "ViewModels\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:49:02.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_HomeLayout.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_HomeLayout.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_HomeLayout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:48:05.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartPanel.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:46:59.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:46:35.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:41:11.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Detail.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Detail.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:34:12.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductItem.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shop\\ProductItem.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\ProductItem.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shop\\ProductItem.cshtml",
+              "RelativeToolTip": "Views\\Shop\\ProductItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:29:47.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\Components\\MenuCategory\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\MenuCategory\\Default.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\Components\\MenuCategory\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\MenuCategory\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:24:51.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_TemplateProduct.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\_TemplateProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_TemplateProduct.cshtml",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\Views\\Shared\\_TemplateProduct.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_TemplateProduct.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:24:36.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuCategory.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\ViewComponents\\MenuCategory.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\MenuCategory.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Class\\ShopFix\\MyFinalExam\\ViewComponents\\MenuCategory.cs",
+              "RelativeToolTip": "ViewComponents\\MenuCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:23:47.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

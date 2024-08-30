@@ -1,0 +1,550 @@
+/* _content/MyFinalExam/Areas/Admin/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-k4t9nexpp0] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a[b-k4t9nexpp0] {
+    color: #0077cc;
+}
+
+.btn-primary[b-k4t9nexpp0] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-k4t9nexpp0], .nav-pills .show > .nav-link[b-k4t9nexpp0] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.border-top[b-k4t9nexpp0] {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom[b-k4t9nexpp0] {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-k4t9nexpp0] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-k4t9nexpp0] {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.footer[b-k4t9nexpp0] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+.product-image[b-k4t9nexpp0] {
+    width: 120%; /* Increase the width to make the image larger */
+    height: auto; /* Maintain the aspect ratio */
+    transition: transform 0.3s ease; /* Smooth zoom effect */
+}
+
+.product-item[b-k4t9nexpp0] {
+    position: relative;
+    overflow: hidden; /* Ensure the images stay within their container */
+    display: block;
+}
+
+.product-details[b-k4t9nexpp0] {
+    position: absolute;
+    bottom: 25px;
+    left: 10px;
+    right: 10px;
+    background: rgba(255, 255, 255, 0.4); /* Sửa giá trị alpha thành 0.5 */
+    padding: 10px;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.position-relative button[b-k4t9nexpp0] {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.product-item:hover .product-image[b-k4t9nexpp0] {
+    transform: scale(1.1); /* Zoom in on hover */
+}
+
+.product-item:hover .product-details[b-k4t9nexpp0] {
+    opacity: 1; /* Show the text on hover */
+}
+/* Adjust width of Fruits Shop */
+.col-lg-3[b-k4t9nexpp0] {
+    flex: 0 0 25%; /* Chia ra làm 3 phần */
+    max-width: 25%; /* Giữ mỗi phần với kích thước 33.33% */
+}
+
+/* Adjust width of Products Shop */
+.col-lg-9[b-k4t9nexpp0] {
+    flex: 0 0 75%; /* Chia ra làm 3 phần */
+    max-width: 75%; /* Giữ mỗi phần với kích thước 66.66% */
+}
+
+/* Hover effect */
+.plus-btn[b-k4t9nexpp0] {
+    opacity: 0.6; /* Thiết lập độ trong suốt */
+    transition: transform 0.3s ease; /* Hiệu ứng chuyển đổi */
+    border-radius: 30%; /* Tạo hình dạng tròn */
+    text-align: center; /* Căn giữa nội dung */
+    border: none; /* Loại bỏ viền */
+}
+
+    .plus-btn:hover[b-k4t9nexpp0] {
+        opacity: 1; /* Tăng độ trong suốt khi hover */
+    }
+
+.container[b-k4t9nexpp0] {
+    max-width: 1400px;
+}
+
+ul[b-k4t9nexpp0] {
+    list-style-type: none; /* Loại bỏ ký hiệu dạng dấu chấm hoặc số */
+    padding: 0; /* Xóa padding mặc định của danh sách */
+}
+
+    ul li[b-k4t9nexpp0] {
+        text-decoration: none; /* Tắt gạch ngang */
+    }
+
+.ulFix li a[b-k4t9nexpp0] {
+    text-decoration: none; /* Tắt gạch ngang cho liên kết bên trong mục danh sách */
+}
+
+.ulFix li a[b-k4t9nexpp0] {
+    text-decoration: none; /* Tắt gạch ngang cho liên kết bên trong mục danh sách */
+}
+
+.container-size[b-k4t9nexpp0] {
+    max-width: 1600px;
+}
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-k4t9nexpp0] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a[b-k4t9nexpp0] {
+    color: #0077cc;
+}
+
+.btn-primary[b-k4t9nexpp0] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-k4t9nexpp0], .nav-pills .show > .nav-link[b-k4t9nexpp0] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.border-top[b-k4t9nexpp0] {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom[b-k4t9nexpp0] {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-k4t9nexpp0] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-k4t9nexpp0] {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.footer[b-k4t9nexpp0] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+.product-image[b-k4t9nexpp0] {
+    width: 120%; /* Increase the width to make the image larger */
+    height: auto; /* Maintain the aspect ratio */
+    transition: transform 0.3s ease; /* Smooth zoom effect */
+}
+
+.product-item[b-k4t9nexpp0] {
+    position: relative;
+    overflow: hidden; /* Ensure the images stay within their container */
+    display: block;
+}
+
+.product-details[b-k4t9nexpp0] {
+    position: absolute;
+    bottom: 25px;
+    left: 10px;
+    right: 10px;
+    background: rgba(255, 255, 255, 0.4); /* Sửa giá trị alpha thành 0.5 */
+    padding: 10px;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.position-relative button[b-k4t9nexpp0] {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.product-item:hover .product-image[b-k4t9nexpp0] {
+    transform: scale(1.1); /* Zoom in on hover */
+}
+
+.product-item:hover .product-details[b-k4t9nexpp0] {
+    opacity: 1; /* Show the text on hover */
+}
+/* Adjust width of Fruits Shop */
+.col-lg-3[b-k4t9nexpp0] {
+    flex: 0 0 25%; /* Chia ra làm 3 phần */
+    max-width: 25%; /* Giữ mỗi phần với kích thước 33.33% */
+}
+
+/* Adjust width of Products Shop */
+.col-lg-9[b-k4t9nexpp0] {
+    flex: 0 0 75%; /* Chia ra làm 3 phần */
+    max-width: 75%; /* Giữ mỗi phần với kích thước 66.66% */
+}
+
+/* Hover effect */
+.plus-btn[b-k4t9nexpp0] {
+    opacity: 0.6; /* Thiết lập độ trong suốt */
+    transition: transform 0.3s ease; /* Hiệu ứng chuyển đổi */
+    border-radius: 30%; /* Tạo hình dạng tròn */
+    text-align: center; /* Căn giữa nội dung */
+    border: none; /* Loại bỏ viền */
+}
+
+    .plus-btn:hover[b-k4t9nexpp0] {
+        opacity: 1; /* Tăng độ trong suốt khi hover */
+    }
+
+.container[b-k4t9nexpp0] {
+    max-width: 1400px;
+}
+
+ul[b-k4t9nexpp0] {
+    list-style-type: none; /* Loại bỏ ký hiệu dạng dấu chấm hoặc số */
+    padding: 0; /* Xóa padding mặc định của danh sách */
+}
+
+    ul li[b-k4t9nexpp0] {
+        text-decoration: none; /* Tắt gạch ngang */
+    }
+
+.ulFix li a[b-k4t9nexpp0] {
+    text-decoration: none; /* Tắt gạch ngang cho liên kết bên trong mục danh sách */
+}
+
+.ulFix li a[b-k4t9nexpp0] {
+    text-decoration: none; /* Tắt gạch ngang cho liên kết bên trong mục danh sách */
+}
+
+.container-size[b-k4t9nexpp0] {
+    max-width: 1600px;
+}
+/* _content/MyFinalExam/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-31o9wny6k4] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a[b-31o9wny6k4] {
+    color: #0077cc;
+}
+
+.btn-primary[b-31o9wny6k4] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-31o9wny6k4], .nav-pills .show > .nav-link[b-31o9wny6k4] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.border-top[b-31o9wny6k4] {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom[b-31o9wny6k4] {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-31o9wny6k4] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-31o9wny6k4] {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.footer[b-31o9wny6k4] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+.product-image[b-31o9wny6k4] {
+    width: 120%; /* Increase the width to make the image larger */
+    height: auto; /* Maintain the aspect ratio */
+    transition: transform 0.3s ease; /* Smooth zoom effect */
+}
+
+.product-item[b-31o9wny6k4] {
+    position: relative;
+    overflow: hidden; /* Ensure the images stay within their container */
+    display: block;
+}
+
+.product-details[b-31o9wny6k4] {
+    position: absolute;
+    bottom: 25px;
+    left: 10px;
+    right: 10px;
+    background: rgba(255, 255, 255, 0.4); /* Sửa giá trị alpha thành 0.5 */
+    padding: 10px;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.position-relative button[b-31o9wny6k4] {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.product-item:hover .product-image[b-31o9wny6k4] {
+    transform: scale(1.1); /* Zoom in on hover */
+}
+
+.product-item:hover .product-details[b-31o9wny6k4] {
+    opacity: 1; /* Show the text on hover */
+}
+/* Adjust width of Fruits Shop */
+.col-lg-3[b-31o9wny6k4] {
+    flex: 0 0 25%; /* Chia ra làm 3 phần */
+    max-width: 25%; /* Giữ mỗi phần với kích thước 33.33% */
+}
+
+/* Adjust width of Products Shop */
+.col-lg-9[b-31o9wny6k4] {
+    flex: 0 0 75%; /* Chia ra làm 3 phần */
+    max-width: 75%; /* Giữ mỗi phần với kích thước 66.66% */
+}
+
+/* Hover effect */
+.plus-btn[b-31o9wny6k4] {
+    opacity: 0.6; /* Thiết lập độ trong suốt */
+    transition: transform 0.3s ease; /* Hiệu ứng chuyển đổi */
+    border-radius: 30%; /* Tạo hình dạng tròn */
+    text-align: center; /* Căn giữa nội dung */
+    border: none; /* Loại bỏ viền */
+}
+
+    .plus-btn:hover[b-31o9wny6k4] {
+        opacity: 1; /* Tăng độ trong suốt khi hover */
+    }
+
+.container[b-31o9wny6k4] {
+    max-width: 1400px;
+}
+
+ul[b-31o9wny6k4] {
+    list-style-type: none; /* Loại bỏ ký hiệu dạng dấu chấm hoặc số */
+    padding: 0; /* Xóa padding mặc định của danh sách */
+}
+
+    ul li[b-31o9wny6k4] {
+        text-decoration: none; /* Tắt gạch ngang */
+    }
+
+.ulFix li a[b-31o9wny6k4] {
+    text-decoration: none; /* Tắt gạch ngang cho liên kết bên trong mục danh sách */
+}
+
+.ulFix li a[b-31o9wny6k4] {
+    text-decoration: none; /* Tắt gạch ngang cho liên kết bên trong mục danh sách */
+}
+
+.container-size[b-31o9wny6k4] {
+    max-width: 1600px;
+}
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-31o9wny6k4] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a[b-31o9wny6k4] {
+    color: #0077cc;
+}
+
+.btn-primary[b-31o9wny6k4] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-31o9wny6k4], .nav-pills .show > .nav-link[b-31o9wny6k4] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.border-top[b-31o9wny6k4] {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom[b-31o9wny6k4] {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-31o9wny6k4] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-31o9wny6k4] {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.footer[b-31o9wny6k4] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+.product-image[b-31o9wny6k4] {
+    width: 120%; /* Increase the width to make the image larger */
+    height: auto; /* Maintain the aspect ratio */
+    transition: transform 0.3s ease; /* Smooth zoom effect */
+}
+
+.product-item[b-31o9wny6k4] {
+    position: relative;
+    overflow: hidden; /* Ensure the images stay within their container */
+    display: block;
+}
+
+.product-details[b-31o9wny6k4] {
+    position: absolute;
+    bottom: 25px;
+    left: 10px;
+    right: 10px;
+    background: rgba(255, 255, 255, 0.4); /* Sửa giá trị alpha thành 0.5 */
+    padding: 10px;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.position-relative button[b-31o9wny6k4] {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.product-item:hover .product-image[b-31o9wny6k4] {
+    transform: scale(1.1); /* Zoom in on hover */
+}
+
+.product-item:hover .product-details[b-31o9wny6k4] {
+    opacity: 1; /* Show the text on hover */
+}
+/* Adjust width of Fruits Shop */
+.col-lg-3[b-31o9wny6k4] {
+    flex: 0 0 25%; /* Chia ra làm 3 phần */
+    max-width: 25%; /* Giữ mỗi phần với kích thước 33.33% */
+}
+
+/* Adjust width of Products Shop */
+.col-lg-9[b-31o9wny6k4] {
+    flex: 0 0 75%; /* Chia ra làm 3 phần */
+    max-width: 75%; /* Giữ mỗi phần với kích thước 66.66% */
+}
+
+/* Hover effect */
+.plus-btn[b-31o9wny6k4] {
+    opacity: 0.6; /* Thiết lập độ trong suốt */
+    transition: transform 0.3s ease; /* Hiệu ứng chuyển đổi */
+    border-radius: 30%; /* Tạo hình dạng tròn */
+    text-align: center; /* Căn giữa nội dung */
+    border: none; /* Loại bỏ viền */
+}
+
+    .plus-btn:hover[b-31o9wny6k4] {
+        opacity: 1; /* Tăng độ trong suốt khi hover */
+    }
+
+.container[b-31o9wny6k4] {
+    max-width: 1400px;
+}
+
+ul[b-31o9wny6k4] {
+    list-style-type: none; /* Loại bỏ ký hiệu dạng dấu chấm hoặc số */
+    padding: 0; /* Xóa padding mặc định của danh sách */
+}
+
+    ul li[b-31o9wny6k4] {
+        text-decoration: none; /* Tắt gạch ngang */
+    }
+
+.ulFix li a[b-31o9wny6k4] {
+    text-decoration: none; /* Tắt gạch ngang cho liên kết bên trong mục danh sách */
+}
+
+.ulFix li a[b-31o9wny6k4] {
+    text-decoration: none; /* Tắt gạch ngang cho liên kết bên trong mục danh sách */
+}
+
+.container-size[b-31o9wny6k4] {
+    max-width: 1600px;
+}

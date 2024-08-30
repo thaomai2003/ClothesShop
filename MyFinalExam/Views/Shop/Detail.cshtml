@@ -1,0 +1,270 @@
+﻿@model MyFinalExam.ViewModels.ProductDetailVM
+@{
+    ViewData["Title"] = "Detail";
+}
+<div class="container my-5">
+    <div class="row">
+        <div class="col-md-5">
+            <div class="main-img">
+                <a style="text-decoration: none;">
+                    <img class="img-fluid" src="~/Hình/images/@Model.ImageURL" alt="@Model.Name">
+                </a>
+            </div>
+        </div>
+        <div class="col-md-7">
+            <div class="main-description p-4 border rounded shadow-sm">
+                <div class="category font-weight-bold mb-2">
+                    @Model.CategoryDescription
+                </div>
+                <div class="product-title h4 font-weight-bold mb-3">
+                    @Model.Name
+                </div>
+                <div class="price-area mb-4">
+                    <p class="old-price mb-1"><del>$@Model.Price</del> <span class="text-danger">(20% off)</span></p>
+                    <p class="new-price h4 text-danger mb-1">$@Model.Sale</p>
+                    <p class="text-secondary mb-1">(Additional tax may apply on checkout)</p>
+                </div>
+                <form asp-action="AddToCart" asp-controller="Cart" asp-route-id="@Model.ID">
+                <div class="buttons d-flex my-4">
+                    <button class="btn btn-primary shadow-sm" style="margin-right: 10px;">Buy</button>
+                    <button class="btn btn-primary shadow-sm" style="margin-right: 10px;">Add to cart</button>
+                    <input style="margin-left: 10px;" type="number" class="form-control w-25" id="cart_quantity" value="1" min="0" max="5" name="quantity">
+                </div>
+                </form>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="product-details  bg-light p-3 border rounded shadow-sm">
+                            <p class="h5 text-dark mb-1">Product Details</p>
+                            <p class="text-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat excepturi odio recusandae aliquid ad impedit autem commodi earum voluptatem laboriosam?</p>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="questions  bg-light p-3 border rounded shadow-sm">
+                            <div class="row">
+                                <div class="col-md-1 d-flex align-items-center justify-content-center">
+                                    <i class="fas fa-question-circle fa-2x text-primary"></i>
+                                </div>
+                                <div class="col-md-11">
+                                    Have a question about our products at E-Store? Feel free to contact our representatives via live chat or email.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="delivery  bg-light p-3 border rounded shadow-sm">
+                            <p class="font-weight-bold mb-0"><i class="fas fa-truck"></i> Delivery done in 3 days from date of purchase</p>
+                            <p class="text-secondary">Order now to get this product delivery</p>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="delivery-options my-4 bg-light p-3 border rounded shadow-sm">
+                            <p class="font-weight-bold mb-0"><i class="fas fa-filter"></i> Delivery options</p>
+                            <p class="text-secondary">View delivery options here</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="container similar-products my-4">
+    <hr>
+    <p class="display-5">Similar Products : @Model.SimilarProducts.Count Products</p>
+    <div id="similarProductsCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            @for (int i = 0; i < Model.SimilarProducts.Count; i += 4)
+            {
+                <div class="carousel-item @(i == 0 ? "active" : "")">
+                    <div class="row mb-3">
+                        <!-- Thêm class mb-3 ở đây -->
+                        @for (int j = i; j < i + 4 && j < Model.SimilarProducts.Count; j++)
+                        {
+                            var product = Model.SimilarProducts[j];
+                            <div class="col-md-3 mb-3">
+                                <!-- Thêm class mb-3 ở đây -->
+                                <a asp-action="Detail" asp-route-id="@product.ID" style="text-decoration: none;">
+                                    <div class="similar-product">
+                                        <img src="~/Hình/images/@product.ImageURL" class="w-100" alt="@product.Name">
+                                        <p class="title">@product.Name</p>
+                                        <p class="old-price mb-1"><del>$@Model.Price</del> <span class="text-danger">(20% off)</span></p>
+                                        <p class="price h4 text-danger mb-1">$@Model.Sale</p>
+                                    </div>
+                                </a>
+                            </div>
+                        }
+                    </div> <!-- Close current row -->
+                </div> <!-- Close current carousel-item -->
+            }
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#similarProductsCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#similarProductsCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</div>
+<style>
+    .container-layout {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+        font-family: 'Arial', sans-serif;
+    }
+
+    .questions {
+        margin-top: 2rem !important;
+        margin-bottom: 2rem !important;
+    }
+
+    .my-5 {
+        margin-top: 3rem !important;
+        margin-bottom: 3rem !important;
+    }
+
+    .my-4 {
+        margin-top: 2rem !important;
+        margin-bottom: 2rem !important;
+    }
+
+    .px-2 {
+        padding-left: 0.5rem !important;
+        padding-right: 0.5rem !important;
+    }
+
+    /* Product details section */
+    .main-img img {
+        border-radius: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border: 1px solid #ddd;
+    }
+
+    .main-description {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border: 1px solid #ddd;
+    }
+
+    .category {
+        font-size: 1.2em;
+        color: #333;
+    }
+
+    .product-title {
+        font-size: 1.8em;
+        color: #222;
+    }
+
+    .price-area {
+        font-size: 1.2em;
+        color: #555;
+    }
+
+    .old-price {
+        color: #999;
+        font-size: 1em;
+    }
+
+    .old-price-discount {
+        color: red;
+    }
+
+    .new-price {
+        color: #e60000;
+        font-size: 2em;
+    }
+
+    /* Buttons */
+    .buttons .block {
+        margin-right: 10px;
+    }
+
+    .shadow {
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .custom-btn {
+        background-color: #007bff;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+        border: none;
+    }
+
+        .custom-btn:hover {
+            background-color: #0056b3;
+        }
+
+    .quantity input {
+        width: 80px;
+        text-align: center;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+
+    /* Product details text */
+    .details-title {
+        font-size: 1.5em;
+        color: #444;
+        margin-bottom: 10px;
+    }
+
+    .description {
+        color: #666;
+        line-height: 1.6;
+    }
+
+    /* Similar products section */
+
+    .similar-products .display-5 {
+        font-size: 2em;
+        margin-bottom: 20px;
+    }
+
+    .similar-product {
+        margin-top: 30px;
+        background-color: #fff;
+        padding: 15px;
+        border-radius: 10px; /* Cong các góc */
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        overflow: hidden; /* Loại bỏ viền phía trong của ảnh */
+    }
+
+        .similar-product img {
+            border-radius: 20px; /* Cong các góc của ảnh */
+            width: 100%;
+            height: auto;
+            border: none; /* Loại bỏ viền */
+            box-shadow: none; /* Loại bỏ viền */
+        }
+
+        .similar-product:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+        }
+
+
+
+        .similar-product .title {
+            font-size: 1.2em;
+            color: #333;
+            margin-top: 10px;
+        }
+
+        .similar-product .price {
+            font-size: 1.1em;
+            color: #e60000;
+            margin-top: 5px;
+        }
+</style>
